@@ -1,7 +1,7 @@
-# Site Empresarial:
+# Site Comercial:
 
 ## Características/Recursos:
-Modelo de site empresarial desenvolvido com o intuito de treinar a utilização de novas tecnologias web.
+Modelo de site comercial desenvolvido com o intuito de treinar a utilização de novas tecnologias web.
 
 ## Site desenvolvido utilizando as tecnologias:
 
